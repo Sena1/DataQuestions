@@ -1,7 +1,7 @@
 { "fragen": [
       {
       "id" : 1,
-      "question" : "Wie häufig hatten Sie Übelkeit?",
+      "head" : "Wie häufig hatten Sie Übelkeit?",
       "typ": "RB",
       "body" : ["Nie", "Selten", "Gelegentlich", "Häufig", "Fast immer"],
       "selected" : -1
@@ -9,116 +9,116 @@
  }, { 
 
       "id" : 2,
-      "question": "Wie stark war Ihre Übelkeit im schlimmsten Fall?",
+      "head": "Wie stark war Ihre Übelkeit im schlimmsten Fall?",
       "typ": "RB",
       "body" :["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 3,
-      "question":  "Wie häufig mussten Sie Erbrechen?",
+      "head":  "Wie häufig mussten Sie Erbrechen?",
       "typ": "RB",
      "body" : ["Nie", "Selten", "Gelegentlich", "Häufig", "Fast immer"],
      "selected" : -1
 }, {
       "id" : 4,
-     "question":  "Wie stark war Ihr Erbrechen im schlimmsten Fall?",
+     "head":  "Wie stark war Ihr Erbrechen im schlimmsten Fall?",
       "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 5,
-      "question":  "Wie häufig hatten Sie Durchfall?",
+      "head":  "Wie häufig hatten Sie Durchfall?",
      "typ": "RB",
       "body" :["Nie", "Selten", "Gelegentlich", "Häufig", "Fast immer"],
       "selected" : -1
 }, {
       "id" : 6,
-      "question":  "Wie stark war Ihr Appetitmangel im schlimmsten Fall?",
+      "head":  "Wie stark war Ihr Appetitmangel im schlimmsten Fall?",
       "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 7,
-      "question":  "Wie sehr hat Ihr Appetitmangel Sie in Ihren täglichen Aktivitäten gestört?",
+      "head":  "Wie sehr hat Ihr Appetitmangel Sie in Ihren täglichen Aktivitäten gestört?",
      "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 8,
-      "question":  "Wie stark waren Ihre Müdigkeit, Erschöpfung oder fehlende Energie im schlimmsten Fall?",
+      "head":  "Wie stark waren Ihre Müdigkeit, Erschöpfung oder fehlende Energie im schlimmsten Fall?",
       "typ": "RB",
      "body" :["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
      "selected" : -1
 }, {
       "id" : 9,
-      "question": "Wie sehr haben Müdigkeit, Erschöpfung oder fehlende Energie Sie in Ihren täglichen Aktivitäten gestört?",
+      "head": "Wie sehr haben Müdigkeit, Erschöpfung oder fehlende Energie Sie in Ihren täglichen Aktivitäten gestört?",
       "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 10,
-      "question": "Wie stark war Ihre Kurzatmigkeit im schlimmsten Fall?",
+      "head": "Wie stark war Ihre Kurzatmigkeit im schlimmsten Fall?",
       "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßigig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 11,
-      "question": "Wie sehr hat Kurzatmigkeit Sie in Ihren täglichen Aktivitäten gestört?",
+      "head": "Wie sehr hat Kurzatmigkeit Sie in Ihren täglichen Aktivitäten gestört?",
      "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßigig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 12,
-      "question" :"Wie häufig hatten Sie geschwollene Arme oder Beine?",
+      "head" :"Wie häufig hatten Sie geschwollene Arme oder Beine?",
       "typ": "RB",
      "body" : ["Nie", "Selten", "Gelegentlich", "Häufig", "Fast immer"],
      "selected" : -1
 }, {
       "id" : 13,
-      "question": "Wie stark geschwollen waren Ihre Arme oder Beine im schlimmsten Fall?",
+      "head": "Wie stark geschwollen waren Ihre Arme oder Beine im schlimmsten Fall?",
      "typ": "RB",
       "body" :["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 14,
-     "question": "Wie sehr haben geschwollene Arme oder Beine Sie in Ihren täglichen Aktivitäten gestört?",
+     "head": "Wie sehr haben geschwollene Arme oder Beine Sie in Ihren täglichen Aktivitäten gestört?",
       "typ": "RB",
       "body" :["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 
 }, {
       "id" : 15,
-      "question": "Wie stark hatten Sie Taubheit oder Kribbeln in Händen oder Füssen im schlimmsten Fall?",
+      "head": "Wie stark hatten Sie Taubheit oder Kribbeln in Händen oder Füssen im schlimmsten Fall?",
      "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 16,
-      "question":  "Wie sehr hatten Sie Taubheit oder Kribbeln in Händen oder Füssen in Ihren täglichen Aktivitäten gestört?",
+      "head":  "Wie sehr hatten Sie Taubheit oder Kribbeln in Händen oder Füssen in Ihren täglichen Aktivitäten gestört?",
       "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 17,
-      "question":  "Wie stark hatten Sie Wunde oder offene Stellen in Mund oder im Hals im schlimmsten Fall?",
+      "head":  "Wie stark hatten Sie Wunde oder offene Stellen in Mund oder im Hals im schlimmsten Fall?",
       "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
 }, {
       "id" : 18,
-      "question":  "Wie sehr haben Wunde oder offene Stellen in Mund oder Hals Sie in ihren täglichen Aktivitäten gestört?",
+      "head":  "Wie sehr haben Wunde oder offene Stellen in Mund oder Hals Sie in ihren täglichen Aktivitäten gestört?",
       "typ": "RB",
      "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
      "selected" : -1
 }, {
       "id" : 19,
-      "question":  "Wie häufig hatten Sie Herzklopfen, Herzrasen oder einen unregelmäßigen Puls?",
+      "head":  "Wie häufig hatten Sie Herzklopfen, Herzrasen oder einen unregelmäßigen Puls?",
       "typ": "RB",
      "body" : ["Nie", "Selten", "Gelegentlich", "Häufig", "Fast immer"],
      "selected" : -1
 }, {
       "id" : 20,
-      "question": "Wie stark waren Ihr Herzklopfen, Herzrasen oder unregelmässiger Puls im schlimmsten Fall?",
+      "head": "Wie stark waren Ihr Herzklopfen, Herzrasen oder unregelmässiger Puls im schlimmsten Fall?",
       "typ": "RB",
       "body" : ["Gar nicht", "Ein wenig", "Mäßig", "Ziemlich", "Sehr"],
       "selected" : -1
@@ -126,56 +126,56 @@
 
 
       "id" : 21,
-      "question":  "Wenig Interesse oder Freude an Ihren Tätigkeiten",
+      "head":  "Wenig Interesse oder Freude an Ihren Tätigkeiten",
      "typ": "RB",
       "body" :["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
       "selected" : -1
 }, {
       "id" : 22,
-      "question":  "Niedergeschlagenheit, Schwermut oder Hoffnungslosigkeit",
+      "head":  "Niedergeschlagenheit, Schwermut oder Hoffnungslosigkeit",
      "typ": "RB",
       "body" :["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
       "selected" : -1
 }, {
       "id" : 23,
-      "question":  "Schwierigkeiten, ein- oder durchzuschlafen,oder vermehrter Schlaf",
+      "head":  "Schwierigkeiten, ein- oder durchzuschlafen,oder vermehrter Schlaf",
       "typ": "RB",
       "body" : ["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
       "selected" : -1
      },  {
       "id" : 24,
-     "question": "M�digkeit oder Gef�hl, keine Energie zu haben",
+     "head": "M�digkeit oder Gef�hl, keine Energie zu haben",
     "typ": "RB",
      "body" : ["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
      "selected" : -1
 }, {
 
       "id" : 25,
-      "question":  "Verminderter Appetit oder übermäßiges Bedürfnis zu essen",
+      "head":  "Verminderter Appetit oder übermäßiges Bedürfnis zu essen",
       "typ": "RB",
       "body" : ["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
       "selected" : -1
 }, {
       "id" : 26,
-      "question":  "Schlechte Meinung von sich selbst, Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben",
+      "head":  "Schlechte Meinung von sich selbst, Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben",
       "typ": "RB",
       "body" : ["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
       "selected" : -1
 }, {
       "id" : 27,
-     "question":  "Schwierigkeiten, sich auf etwas zu konzentrieren, z. B. beim Zeitungslesen oder Fernsehen",
+     "head":  "Schwierigkeiten, sich auf etwas zu konzentrieren, z. B. beim Zeitungslesen oder Fernsehen",
     "typ": "RB",
       "body" : ["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
       "selected" : -1
 }, {
       "id" : 28,
-     "question": "Waren Ihre Bewegungen oder Ihre Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil zappelig oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst?",
+     "head": "Waren Ihre Bewegungen oder Ihre Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil zappelig oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst?",
       "typ": "RB",
       "body" : ["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
       "selected" : -1
 }, {
       "id" : 29,
-      "question": "Gedanken, dass Sie lieber tot wären oder sich Leid zufügen möchten",
+      "head": "Gedanken, dass Sie lieber tot wären oder sich Leid zufügen möchten",
       "typ": "RB",
       "body" : ["Überhaupt nicht", "An einzelen Tagen", "An mehr als der Hälfte der Tage", "Beinahe jeden Tag"],
       "selected" : -1
